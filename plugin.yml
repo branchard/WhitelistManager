@@ -1,0 +1,8 @@
+name: WhitelistChecker
+author: Benoit Branchard
+website: http://www.minewild.fr/
+version: 0.1
+main: fr.minewild.whitelistchecker.WhitelistChecker
+commands:
+  wc:
+    description: Obtenir l'UUID d'un joueur
